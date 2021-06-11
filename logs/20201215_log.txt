@@ -1,0 +1,20 @@
+Sign in attempt on 2020-12-15 18:42:48. User JCollins@gmail.com.
+Sign in attempt on 2020-12-15 18:45:13. User JCollins@gmail.com.
+Sign in attempt on 2020-12-15 18:45:35. User JCollins@gmail.com.
+Sign in attempt on 2020-12-15 18:46:01. User JCollins@gmail.com.
+Sign in attempt on 2020-12-15 18:48:29. User JCollins@gmail.com.
+Sign in attempt on 2020-12-15 18:48:51. User JCollins@gmail.com.
+Sign in attempt on 2020-12-15 18:48:57. User JCollins@gmail.com.
+Sign in attempt on 2020-12-15 18:49:14. User JCollins@gmail.com.
+Sign in attempt on 2020-12-15 18:49:42. User JCollins@gmail.com.
+Sign in attempt on 2020-12-15 18:49:45. User JCollins@gmail.com.
+Sign in attempt on 2020-12-15 18:49:52. User JCollins@gmail.com.
+Sign in attempt on 2020-12-15 18:51:02. User JCollins@gmail.com.
+Sign in attempt on 2020-12-15 18:51:16. User jdoe@durhamcollege.ca.
+Sign in attempt on 2020-12-15 18:51:22. User jdoe@durhamcollege.ca.
+Sign in attempt on 2020-12-15 18:54:39. User jdoe@durhamcollege.ca.
+Sign in attempt on 2020-12-15 18:54:49. User JCollins@gmail.com.
+Sign in attempt on 2020-12-15 18:54:52. User JCollins@gmail.com.
+Sign in successful on 2020-12-15 18:55:24. User JCollins@gmail.com signed in.
+Sign in successful on 2020-12-15 18:55:43. User JCollins@gmail.com signed in.
+Sign in successful on 2020-12-15 18:56:00. User jdoe@durhamcollege.ca signed in.

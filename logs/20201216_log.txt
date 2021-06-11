@@ -1,0 +1,14 @@
+Sign out successful at 2020-12-15 18:42:15. User jdoe@durhamcollege.ca signed out.
+Sign out successful at 2020-12-15 18:55:26. User JCollins@gmail.com signed out.
+Sign out successful at 2020-12-15 18:55:46. User JCollins@gmail.com signed out.
+Sign out successful at 2020-12-16 13:53:12. User jdoe@durhamcollege.ca signed out.
+Sign in attempt on 2020-12-16 14:21:28. User JCollins@gmail.com.
+Sign in successful on 2020-12-16 14:38:32. User JCollins@gmail.com signed in.
+Sign out successful at 2020-12-16 14:38:49. User JCollins@gmail.com signed out.
+Sign in successful on 2020-12-16 14:38:54. User jdoe@durhamcollege.ca signed in.
+Sign out successful at 2020-12-16 16:16:34. User jdoe@durhamcollege.ca signed out.
+Sign in attempt on 2020-12-16 16:16:40. User tom@tom.com.
+Sign in attempt on 2020-12-16 16:17:06. User JCollins@gmail.com.
+Sign in successful on 2020-12-16 16:17:09. User JCollins@gmail.com signed in.
+Sign out successful at 2020-12-16 16:17:14. User JCollins@gmail.com signed out.
+Sign in successful on 2020-12-16 16:17:27. User jdoe@durhamcollege.ca signed in.
